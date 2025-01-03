@@ -72,4 +72,4 @@ This project serves as a practical guide for developers looking to implement mor
 
 ---
 
-This project was developed by [JohnSalazar](https://github.com/JohnSalazar) <img alt="Brazil" src="https://github.com/user-attachments/assets/6340ab49-4afe-43cb-acce-53ab1e2f64c2" width="20" height="14"/> under the [MIT license](LICENSE).
+This project was developed by [JohnSalazar](https://github.com/JohnSalazar) <img alt="Brazil" src="https://github.com/user-attachments/assets/6340ab49-4afe-43cb-acce-53ab1e2f64c2" width="20" height="14"/> under the [MIT license](LICENSE.txt).
