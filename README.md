@@ -64,7 +64,6 @@ The goal is to provide a solution for scenarios where policies cannot be registe
 ## References
 
 - [Custom Authorization Policy Providers in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/security/authorization/iauthorizationpolicyprovider)
-- [How to Create a Custom Authorize Attribute in ASP.NET Core](https://code-maze.com/custom-authorize-attribute-aspnetcore/)
 
 ---
 
