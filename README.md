@@ -63,7 +63,7 @@ The goal is to provide a solution for scenarios where policies cannot be registe
 
 ## References
 
-- [Custom Authorization Policy Providers in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/security/authorization/iauthorizationpolicyprovider)
+- [Customize the behavior of AuthorizationMiddleware](https://learn.microsoft.com/en-us/aspnet/core/security/authorization/customizingauthorizationmiddlewareresponse?view=aspnetcore-9.0)
 
 ---
 
